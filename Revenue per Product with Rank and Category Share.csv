@@ -1,0 +1,53 @@
+product_category,product_detail,total_sales,category_total,category_share,rank_in_category
+Bakery,"Scottish Cream Scone ","112,5","973,75","11,55",1
+Bakery,Chocolate Croissant,105,"973,75","10,78",2
+Bakery,Croissant,105,"973,75","10,78",2
+Bakery,Jumbo Savory Scone,"101,25","973,75","10,4",4
+Bakery,Ginger Scone,"97,5","973,75","10,01",5
+Bakery,Chocolate Chip Biscotti,"94,5","973,75","9,7",6
+Bakery,Ginger Biscotti,"80,5","973,75","8,27",7
+Bakery,Almond Croissant,75,"973,75","7,7",8
+Bakery,Hazelnut Biscotti,"74,75","973,75","7,68",9
+Bakery,Oatmeal Scone,66,"973,75","6,78",10
+Bakery,Cranberry Scone,"61,75","973,75","6,34",11
+Coffee,Latte Rg,"301,75","4026,7499999999995","7,49",1
+Coffee,Brazilian Lg,"283,5","4026,7499999999995","7,04",2
+Coffee,Jamaican Coffee River Lg,"262,5","4026,7499999999995","6,52",3
+Coffee,Latte,"236,25","4026,7499999999995","5,87",4
+Coffee,Brazilian Rg,231,"4026,7499999999995","5,74",5
+Coffee,Cappuccino,225,"4026,7499999999995","5,59",6
+Coffee,Columbian Medium Roast Lg,207,"4026,7499999999995","5,14",7
+Coffee,Espresso shot,204,"4026,7499999999995","5,07",8
+Coffee,Cappuccino Lg,"195,5","4026,7499999999995","4,86",9
+Coffee,Our Old Time Diner Blend Lg,192,"4026,7499999999995","4,77",10
+Coffee,Ethiopia Rg,180,"4026,7499999999995","4,47",11
+Coffee,Our Old Time Diner Blend Rg,180,"4026,7499999999995","4,47",11
+Coffee,Jamaican Coffee River Rg,"179,7999999999999","4026,7499999999995","4,47",13
+Coffee,Brazilian Sm,"171,60000000000005","4026,7499999999995","4,26",14
+Coffee,Jamaican Coffee River Sm,"159,25000000000006","4026,7499999999995","3,95",15
+Coffee,Columbian Medium Roast Rg,"157,5","4026,7499999999995","3,91",16
+Coffee,Ethiopia Lg,"157,5","4026,7499999999995","3,91",16
+Coffee,Ouro Brasileiro shot,138,"4026,7499999999995","3,43",18
+Coffee,Our Old Time Diner Blend Sm,128,"4026,7499999999995","3,18",19
+Coffee,Columbian Medium Roast Sm,120,"4026,7499999999995","2,98",20
+Coffee,Ethiopia Sm,"116,60000000000007","4026,7499999999995","2,9",21
+Drinking Chocolate,Dark chocolate Lg,288,"1004,75","28,66",1
+Drinking Chocolate,Sustainably Grown Organic Lg,"275,5","1004,75","27,42",2
+Drinking Chocolate,Sustainably Grown Organic Rg,"266,25","1004,75","26,5",3
+Drinking Chocolate,Dark chocolate Rg,175,"1004,75","17,42",4
+Tea,Morning Sunrise Chai Lg,240,"2837,9","8,46",1
+Tea,Peppermint Lg,213,"2837,9","7,51",2
+Tea,Morning Sunrise Chai Rg,200,"2837,9","7,05",3
+Tea,Earl Grey Rg,"197,5","2837,9","6,96",4
+Tea,Serenity Green Tea Lg,189,"2837,9","6,66",5
+Tea,Lemon Grass Lg,189,"2837,9","6,66",5
+Tea,English Breakfast Lg,186,"2837,9","6,55",7
+Tea,Serenity Green Tea Rg,"182,5","2837,9","6,43",8
+Tea,Earl Grey Lg,171,"2837,9","6,03",9
+Tea,Traditional Blend Chai Lg,165,"2837,9","5,81",10
+Tea,Spicy Eye Opener Chai Lg,"164,29999999999995","2837,9","5,79",11
+Tea,Traditional Blend Chai Rg,"162,5","2837,9","5,73",12
+Tea,Spicy Eye Opener Chai Rg,"158,09999999999994","2837,9","5,57",13
+Tea,Peppermint Rg,145,"2837,9","5,11",14
+Tea,English Breakfast Rg,"137,5","2837,9","4,85",15
+Tea,Lemon Grass Rg,"137,5","2837,9","4,85",15
