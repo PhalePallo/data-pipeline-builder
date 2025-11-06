@@ -18,3 +18,7 @@ SELECT TOP 10 * FROM fact_transactions;    -- Preview data
 SELECT COLUMN_NAME, DATA_TYPE 
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'dim_date'; -- See columns in a specific table
+
+SELECT COLUMN_NAME, DATA_TYPE 
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'dim_store'; -- See columns in a specific table
